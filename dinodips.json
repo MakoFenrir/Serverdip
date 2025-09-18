@@ -85,11 +85,11 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
-						"chancetodrop": 0.95
+						"chancetodrop": 0.9
 					},
 					{
 						"dino": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_C",
-						"chancetodrop": 0.95
+						"chancetodrop": 0.9
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
@@ -128,19 +128,19 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
-						"chancetodrop": 0.95
+						"dino": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
+						"chancetodrop": 0.9
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
-						"chancetodrop": 0.95
+						"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
+						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 6
 			},
 			{
 				"weekforoptions": [
