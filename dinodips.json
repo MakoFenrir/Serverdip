@@ -169,8 +169,8 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
-						"chancetodrop": 0.6
+						"dino": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+						"chancetodrop": 0.7
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
@@ -189,12 +189,12 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
-						"chancetodrop": 0.5
+						"dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
+						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-						"chancetodrop": 0.5
+						"dino": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
+						"chancetodrop": 0.7
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
