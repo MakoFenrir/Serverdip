@@ -226,7 +226,7 @@
 						"chancetodrop": 0.8
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
@@ -242,7 +242,7 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
 						"chancetodrop": 0.7
 					},
 					{
