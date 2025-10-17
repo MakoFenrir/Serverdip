@@ -256,7 +256,7 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
 						"chancetodrop": 0.7
 					},
 					{
@@ -268,7 +268,7 @@
 						"chancetodrop": 0.7
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
 						"chancetodrop": 0.7
 					},
 					{
